@@ -11,6 +11,8 @@ This is a Multi-threaded HTTP server that can serve multiple clients simultaneou
 - Used POSIX file locks to handle file I/O and avoid race conditions.
 - Implemented an audit log to track incoming requests and their responses.
 
+![DesignProcess](https://user-images.githubusercontent.com/52511888/225232039-258e1f09-a30f-4336-ac4d-8d2606875cea.PNG)
+
 ## Functions
 
 - handle_connection(int connfd): Handles a new incoming connection by parsing the request, handling it, and sending the appropriate response.
