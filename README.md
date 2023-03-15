@@ -36,3 +36,7 @@ This is a Multi-threaded HTTP server that can serve multiple clients simultaneou
 - queue.h: Defines the queue_t struct and functions for handling the global queue.
 - request.h: Defines the Request_t enum and functions for handling HTTP requests.
 - response.h: Defines the Response_t enum and functions for handling HTTP responses.
+
+## Citations
+- Vince Tan
+- Professor Andrew Quinn
