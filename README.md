@@ -30,7 +30,7 @@ This is a Multi-threaded HTTP server that can serve multiple clients simultaneou
 - Response_t: An enum that represents the different types of responses 
 
 ## Modules
-- http_helper_funcs.h: Contains helper functions for handling HTTP requests and responses.
+- asgn2_helper_funcs.h: Contains helper functions for handling HTTP requests and responses.
 - connection.h: Defines the conn_t struct and functions for handling connections.
 - debug.h: Contains debugging macros for logging.
 - queue.h: Defines the queue_t struct and functions for handling the global queue.
